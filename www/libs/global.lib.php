@@ -1,0 +1,9 @@
+<?php
+  include(dirname(__FILE__).'/config.inc.php');
+  include(dirname(__FILE__).'/db.lib.php');
+  include(dirname(__FILE__).'/functions.lib.php');
+  include(dirname(__FILE__).'/user.lib.php');
+  include(dirname(__FILE__).'/net.lib.php');
+  include(dirname(__FILE__).'/domotica.lib.php');
+  include(dirname(__FILE__).'/qbus.lib.php');
+?>
